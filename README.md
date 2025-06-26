@@ -10,7 +10,7 @@ To understand and implement:
 - Model evaluation using MAE, MSE, and R² score
 
 ## Dataset
-[Kaggle Dataset – Housing Price Prediction]: (https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
+[Kaggle Dataset – Housing Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 
 ## Tools Used
 - Python
